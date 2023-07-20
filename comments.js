@@ -1,4 +1,4 @@
-// Create a webserver using express and node.js
+// Create web server
 // This file contains the routes for the comments
 
 const express = require('express');
